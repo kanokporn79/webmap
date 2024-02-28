@@ -1,0 +1,1 @@
+var json__8 = {"type":"FeatureCollection","name":"_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"79","Long":null,"Lat":null,"Name":"ตลาดเมืองเก่าย่านชุมชน-ใกล้โรงแรม-ใกล้ถนน","Landmark":"ตลาด"},"geometry":{"type":"Point","coordinates":[103.507509940946974,16.422739535179829]}}]}
